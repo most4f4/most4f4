@@ -25,7 +25,7 @@ I'm Mostafa,
     <br>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
         <br>
-    <img src="https://skillicons.dev/icons?i=jira, visualparadigm" />
+    <img src="https://skillicons.dev/icons?i=jira,vsparadigm" />
   </a>
 </p>
 
