@@ -6,7 +6,7 @@ I'm Mostafa,
 - 🔭 Studying at Seneca Polytechnic
 - 🌱 Self learning Python and ReactJS
   
-**Languages and Tools:**
+## Languages and Tools:
 
 <p>
     <br>
@@ -23,15 +23,16 @@ I'm Mostafa,
   </a>
 </p>
 
-## Featured Projects
-Cuisine Crafters <a href="https://www.linkedin.com/in/mostafa-shahr/">: 
-- a full-stack responsive dynamic web application, modeling key functionalities of online stores.
-- Implemented administrative database management, user authentication, cart functionality, email notifications, and session management. 
+- [**Cuisine Crafters**](https://www.linkedin.com/in/mostafa-shahr/):
+  - A full-stack responsive dynamic web application, modeling key functionalities of online stores.
+  - Implemented administrative database management, user authentication, cart functionality, email notifications, and session management.
 
 ## Currently Working On
-MineSweeper <a href=" https://github.com/most4f4/CPP_MineSweeper">: 
--	an engaing game featuring user interactivity.
--	Incorporated multi-threading, user customizable difficulty level and random map settings.
+
+- [**MineSweeper**](https://github.com/most4f4/CPP_MineSweeper):
+  - An engaging game featuring user interactivity.
+  - Incorporated multi-threading, user customizable difficulty level, and random map settings.
+
  
 
 **Find me:**
