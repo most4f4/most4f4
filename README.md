@@ -13,6 +13,12 @@ I'm Mostafa,
 <p align="left">
   <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+        <p align="right">
+
+<a href="https://github.com/most4f4/convoychat">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=most4f4&hide_border=true&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+</p>
     <br>
     <img src="https://skillicons.dev/icons?i=js,html,css" />
     <br>
@@ -28,7 +34,7 @@ I'm Mostafa,
 </p>
 
 
-<p align="left">
+<p align="right">
 
 <a href="https://github.com/most4f4/convoychat">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=most4f4&hide_border=true&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
