@@ -3,8 +3,8 @@
 I'm Mostafa,
 <br>
 <!--![](https://komarev.com/ghpvc/?username=most4f4)-->
-- 🔭 I’m currently studying at Seneca Polytechnic
-- 🌱 I’m currently self learning Python and ReactJS
+- 🔭 Studying at Seneca Polytechnic
+- 🌱 Self learning Python and ReactJS
   
 **Languages and Tools:**
 
@@ -24,8 +24,6 @@ I'm Mostafa,
     <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
     <br>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
-        <br>
-    <img src="https://skillicons.dev/icons?i=jira,vsparadigm" />
   </a>
 </p>
 
