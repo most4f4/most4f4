@@ -12,7 +12,7 @@ I'm Mostafa,
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,nodejs,express,react" />
     <br>
