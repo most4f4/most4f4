@@ -23,6 +23,8 @@ I'm Mostafa,
   </a>
 </p>
 
+## Featured Projects
+
 - [**Cuisine Crafters**](https://www.linkedin.com/in/mostafa-shahr/):
   - A full-stack responsive dynamic web application, modeling key functionalities of online stores.
   - Implemented administrative database management, user authentication, cart functionality, email notifications, and session management.
