@@ -8,7 +8,7 @@ I'm Mostafa,
   
 **Languages and Tools:**
 
-<p align="left">
+<p>
     <br>
     <img src="https://skillicons.dev/icons?i=js,html,css" />
     <br>
