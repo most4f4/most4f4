@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!-- This is a test>
 
 I'm Mostafa,
 <br>
