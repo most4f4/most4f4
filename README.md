@@ -26,7 +26,7 @@ I'm Mostafa,
 
 ## Featured Projects
 
-- [**Cuisine Crafters**](https://cuisine-crafters.vercel.app/):
+- [**Cuisine Crafters**](https://cuisinecrafters.onrender.com/):
   - Full-stack development of a responsive dynamic web application, modeling key functionalities of online stores.
   - Implemented administrative database management, user authentication, cart functionality, email notifications, and session management.
 
