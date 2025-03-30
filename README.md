@@ -4,8 +4,7 @@
 I'm Mostafa,
 <br>
 <!--![](https://komarev.com/ghpvc/?username=most4f4)-->
-- 🔭 Studying at Seneca Polytechnic
-- 🌱 Self learning Python and ReactJS
+- 🔭 Studying Computer Programming & Analysis at Seneca Polytechnic
   
 ## Languages and Tools:
 
