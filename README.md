@@ -1,4 +1,4 @@
-![MasterHead](/assets/3.gif)
+![MasterHead](/assets/1.gif)
 
 ### Hi there 👋
 
