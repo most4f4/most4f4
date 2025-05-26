@@ -11,6 +11,23 @@ I'm Mostafa,
 
 ## Languages and Tools:
 
+**PROGRAMMING LANGUAGES:**  
+Python, Java, C++, C, Swift, PHP
+
+**WEB DEVELOPMENT & FRAMEWORKS:**  
+JavaScript, HTML, CSS, SASS, Node.js, Express.js, Next.js, React, React Native, Angular, Bootstrap, REST API, JSON, XML, EJS, SendGrid, Tailwind, WordPress, Sitefinity, JWT
+
+**DATABASE MANAGEMENT:**  
+Oracle SQL Developer (Postgres), MongoDB, Mongo Shell Scripting, DB2, Firebase
+
+**TOOLS:**  
+AWS, Docker, Git, Jira, VS Code, Visual Paradigm, Xcode, IntelliJ IDEA, MS Visual Studio, AutoCAD, Adobe Journey Optimizer
+
+**SYSTEMS & IT SUPPORT:**  
+Windows, Linux (Unix programming, shell scripting), macOS
+
+<br>
+
 <p>
     <br>
     <img src="https://skillicons.dev/icons?i=py,java,cpp,c,swift,php" />
