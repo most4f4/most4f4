@@ -13,12 +13,12 @@ I'm Mostafa,
 
 <p>
     <br>
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,swift, php" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,swift,php" />
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=js,html,css, nodejs,express, react" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,react" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git," />
+    <img src="https://skillicons.dev/icons?i=git" />
     <br>
     <img src="https://skillicons.dev/icons?i=,bootstrap,tailwind" />
     <br>
