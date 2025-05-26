@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-
 I'm Mostafa,
 <br>
+
 <!--![](https://komarev.com/ghpvc/?username=most4f4)-->
+
 - 🔭 Studying Computer Programming & Analysis at Seneca Polytechnic
-  
+
 ## Languages and Tools:
 
 <p>
     <br>
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,nodejs,express" />
     <br>
@@ -35,10 +36,7 @@ I'm Mostafa,
   - An engaging game featuring user interactivity.
   - Incorporated multi-threading, user customizable difficulty level, and random map settings.
 
- 
-
 ## Find Me:
+
 <br>
 <a href="https://www.linkedin.com/in/mostafa-shah/"><img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/></a>
-
-
