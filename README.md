@@ -38,8 +38,7 @@ I'm Mostafa,
 
 ## Featured Projects
 
-- [**Hotel Reservation Management System**](hhttps://github.com/most4f4/Hotel-Reservation-Management-System-.git)
--
+- [**Hotel Reservation Management System**](https://github.com/most4f4/Hotel-Reservation-Management-System-)
 
 ## Find Me:
 
