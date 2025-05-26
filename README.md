@@ -16,11 +16,12 @@ I'm Mostafa,
     <img src="https://skillicons.dev/icons?i=py,java,cpp,c,swift,php" />
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,react" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,express" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=,react,nextjs,angular,bootstrap,tailwind,wordpress" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind" />
     <br>
     <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="50" height="50"/> 
     <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
