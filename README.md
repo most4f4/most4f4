@@ -38,15 +38,8 @@ I'm Mostafa,
 
 ## Featured Projects
 
-- [**Cuisine Crafters**](https://cuisinecrafters.onrender.com/):
-  - Full-stack development of a responsive dynamic web application, modeling key functionalities of online stores.
-  - Implemented administrative database management, user authentication, cart functionality, email notifications, and session management.
-
-## Currently Working On
-
-- [**MineSweeper**](https://github.com/most4f4/CPP_MineSweeper):
-  - An engaging game featuring user interactivity.
-  - Incorporated multi-threading, user customizable difficulty level, and random map settings.
+- [**Hotel Reservation Management System**](hhttps://github.com/most4f4/Hotel-Reservation-Management-System-.git)
+-
 
 ## Find Me:
 
