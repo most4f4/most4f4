@@ -5,13 +5,18 @@ I'm Mostafa,
 
 <!--![](https://komarev.com/ghpvc/?username=most4f4)-->
 
-- 🔭 Studying Computer Programming & Analysis at Seneca Polytechnic
+- 🔭 Studying Computer Programming & Analysis at Seneca Polytechnic, CA
+- 🎓 Master of Science in Engineering with Honor from University of Birmingham, UK
+- ⚒️ +5 Years of work experience in engineering and tech companies all around the world 🌍
 
 ## Languages and Tools:
 
 <p>
     <br>
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c" />
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=js,html,css," />
     <br>
     <img src="https://skillicons.dev/icons?i=git,nodejs,express" />
     <br>
