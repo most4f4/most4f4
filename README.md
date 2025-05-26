@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Mostafa,
+I'm Mostafa
 <br>
 
-<!--![](https://komarev.com/ghpvc/?username=most4f4)-->
+![](https://komarev.com/ghpvc/?username=most4f4)
 
 - 🔭 Studying Computer Programming & Analysis at Seneca Polytechnic, CA
 - 🎓 Master of Science in Engineering with Honor from University of Birmingham, UK
