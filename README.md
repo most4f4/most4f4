@@ -23,8 +23,7 @@
 
 ### Web Development & Frameworks
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,angular,html,css" />
-<img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,wordpress" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,html,css,sass,bootstrap,tailwind,wordpress" />
 
 **Frontend:** React, Next.js, Angular, React Native | **Backend:** Node.js, Express.js | **Styling:** Tailwind CSS, Bootstrap, SASS
 
