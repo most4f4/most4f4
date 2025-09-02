@@ -9,6 +9,8 @@
 - 🌱 Currently exploring **AI integration**, **cloud-native architectures**, and **performance optimization**
 - 🚀 Passionate about building **scalable applications** and **developer tools**
 
+🌐 **Portfolio:** [m-shah.vercel.app](https://m-shah.vercel.app/)
+
 ---
 
 ## 🛠️ Tech Stack
