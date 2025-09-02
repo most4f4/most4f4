@@ -5,7 +5,7 @@
 ### Full-Stack Developer | Cloud Engineer | Systems Programmer
 
 - 🎓 **Computer Programming & Analysis Graduate** at Seneca Polytechnic, Canada
-- 🏆 **Master of Science in Engineering** with Honour from University of Birmingham, UK
+- 🏆 **Master of Science in Engineering** from University of Birmingham, UK
 - 🌱 Currently exploring **AI integration**, **cloud-native architectures**, and **performance optimization**
 - 🚀 Passionate about building **scalable applications** and **developer tools**
 
