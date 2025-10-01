@@ -2,14 +2,14 @@
 
 # Hi there 👋 I'm Mostafa
 
-### Full-Stack Developer | Cloud Engineer | Systems Programmer
+### Software Developer | ML & AI Enthusiast | Cloud Practitioner
 
 - 🎓 **Computer Programming & Analysis Graduate** at Seneca Polytechnic, Canada
 - 🏆 **Master of Science in Engineering** from University of Birmingham, UK
-- 🌱 Currently exploring **AI integration**, **cloud-native architectures**, and **performance optimization**
+- 🌱 Currently exploring **Building Agentic AI and AI Automation**, **cloud-native architectures**, and **performance optimization**
 - 🚀 Passionate about building **scalable applications** and **developer tools**
 
-🌐 **Portfolio:** [m-shah.vercel.app](https://m-shah.vercel.app/)
+🌐 **Portfolio:** [mshahrabadi.com](https://mshahrabadi.com)
 
 ---
 
@@ -21,6 +21,12 @@
 
 **Core:** Python, Java, C++, C | **Web:** JavaScript, PHP, Swift
 
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+**Frameworks:** TensorFlow, PyTorch, Scikit-learn | **Libraries:** OpenCV, NumPy, Pandas, Matplotlib | **LLM Frameworks:** LangChain, OpenAI, Agentic AI, Groq LLM, Claude 3 Haiku AI
+
 ### Web Development & Frameworks
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,html,css,sass,bootstrap,tailwind,wordpress" />
@@ -29,9 +35,9 @@
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions" />
 
-**Cloud:** AWS (ECS, Fargate, S3, DynamoDB, Cognito) | **Containers:** Docker | **CI/CD:** GitHub Actions, Multi-stage builds
+**Cloud:** AWS (ECS, Fargate, EC2, S3, DynamoDB, Cognito), GCP (GCS, Firestore) | **Containers:** Docker | **CI/CD:** GitHub Actions, Multi-stage builds
 
 ### Databases & Storage
 
@@ -56,17 +62,32 @@
 
 ## 🚀 Featured Projects
 
-### 🍽️ [**ChowHub - Restaurant Management System**](https://github.com/most4f4/chowhub)
+### 🍽️ [**ChowHub - AI-powered Business Management System**](https://github.com/most4f4/chowhub)
 
-_Team Lead | Full-Stack Development | AI Integration_
+_Team Lead | Full-Stack Development | AI & Automation_
 
 - **Live Demo:** [chowhub.vercel.app](https://chowhub.vercel.app/)
 - **Tech Stack:** React, Next.js, Node.js, Express.js, MongoDB, Claude AI
 - Led team of 4 developers through complete SDLC
 - Real-time inventory management with AI-powered business intelligence
-- Multi-restaurant support with role-based access control
+- Multi-business support with role-based access control
 
-### ☁️ [**CloudDocs - Cloud-Native Document Management**](https://github.com/most4f4/fragments-ui)
+### 🤖 [**AI Assistant M3 - Agentic AI Chatbot**](https://github.com/most4f4/Agentic_AI_Assistant)
+
+_Agentic AI Development | Multi-Tool Integration | Intelligent Automation_
+
+- **Tech Stack:** Python, LangChain, Groq LLM, Streamlit, SerpAPI, REST APIs
+- **Agentic capabilities:** Autonomous search decision-making, context-aware tool selection, intelligent query routing
+- Multi-modal AI agent with integrated tools:
+  - 🌤️ Real-time weather intelligence
+  - 💱 Currency conversion automation
+  - 📊 Stock market data retrieval
+  - 🧮 Mathematical computation
+- Three operational modes: Auto (intelligent routing), Always Search, Chat Only
+- Session persistence with conversation analytics and chat history management
+- **GitHub Repo:** [https://github.com/most4f4/Agentic_AI_Assistant](https://github.com/most4f4/Agentic_AI_Assistant)
+
+### ☁️ [**CloudDocs - Cloud-Based Document Management System**](https://github.com/most4f4/CloudDocs)
 
 _Cloud Architecture | Microservices | AWS_
 
@@ -128,11 +149,11 @@ _Systems Programming | Network Protocols | IPC_
 
 ## 💼 Professional Experience
 
-**Web Developer Intern** @ Questrade Financial Inc. (Toronto)  
-_Led advertisement system implementation | BDD testing | Email template migration_
+**Web Developer Intern** @ Questrade Financial Group (Toronto)  
+_Led advertisement system implementation | BDD testing | Email campaign migration_
 
 **Project Engineer** @ Aldani Master Group (Toronto)  
-_Construction project coordination | Site surveys | Quality assurance_
+_Project coordination | Documentation | Quality assurance_
 
 **Frontend Web Developer** @ Luna Group (UAE)  
 _Performance optimization | Cross-browser compatibility | Third-party integrations_
@@ -141,7 +162,7 @@ _Performance optimization | Cross-browser compatibility | Third-party integratio
 
 ## 🎯 What I'm Working On
 
-- 🔧 Building developer tools and performance monitoring solutions
+- 🔧 Building Agentic AIs and Automation Tools
 - 🧠 Exploring AI integration in business applications
 - ☁️ Advancing cloud-native architectures and microservices
 - 📱 Contributing to open-source projects
@@ -153,14 +174,14 @@ _Performance optimization | Cross-browser compatibility | Third-party integratio
 <a href="https://www.linkedin.com/in/mostafa-shah/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
 </a>
-<a href="mailto:mostafa.shahrabadi90@gmail.com">
+<a href="mailto:mostafa@mshahrabadi.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50"/>
 </a>
-<a href="https://m-shah.vercel.app/">
+<a href="https://m.shahrabadi.com/">
   <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50"/>
 </a>
 
-🌐 **Portfolio:** [m-shah.vercel.app](https://m-shah.vercel.app/)
+🌐 **Portfolio:** [mshahrabadi.com](https://mshahrabadi.com)
 
 ---
 
