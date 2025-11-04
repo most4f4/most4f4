@@ -2,12 +2,12 @@
 
 # Hi there 👋 I'm Mostafa
 
-### Software Developer | ML & AI Enthusiast | Cloud Practitioner
+### Software Engineer | ML & AI Enthusiast | Cloud Practitioner
 
-- 🎓 **Computer Programming & Analysis Graduate** at Seneca Polytechnic, Canada
-- 🏆 **Master of Science in Engineering** from University of Birmingham, UK
-- 🌱 Currently exploring **Building Agentic AI and AI Automation**, **cloud-native architectures**, and **performance optimization**
-- 🚀 Passionate about building **scalable applications** and **developer tools**
+- **Computer Programming & Analysis Graduate** at Seneca Polytechnic, Canada
+- **Master of Science in Engineering** from University of Birmingham, UK
+- Currently exploring **Building Agentic AI and AI Automation**, **cloud-native architectures**, and **performance optimization**
+- Passionate about building **scalable applications** and **AI enablement**
 
 🌐 **Portfolio:** [mshahrabadi.com](https://mshahrabadi.com)
 
@@ -25,7 +25,7 @@
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-**Frameworks:** TensorFlow, PyTorch, Scikit-learn | **Libraries:** OpenCV, NumPy, Pandas, Matplotlib | **LLM Frameworks:** LangChain, OpenAI, Agentic AI, Groq LLM, Claude 3 Haiku AI
+**LLM Frameworks:** n8n, LangChain, Google Agent Development Kit (ADK), CrewAI, LangGarph, LangSmith, OpenAI Agents SDK | **Frameworks:** TensorFlow, PyTorch, Scikit-learn | **Libraries:** OpenCV, NumPy, Pandas, Matplotlib |
 
 ### Web Development & Frameworks
 
@@ -72,19 +72,17 @@ _Team Lead | Full-Stack Development | AI & Automation_
 - Real-time inventory management with AI-powered business intelligence
 - Multi-business support with role-based access control
 
-### 🤖 [**AI Assistant M3 - Agentic AI Chatbot**](https://github.com/most4f4/Agentic_AI_Assistant)
+### 🤖 [**AI Assistant M3 - Conversational RAG Agent Platform**](https://github.com/most4f4/Agentic_AI_Assistant)
 
-_Agentic AI Development | Multi-Tool Integration | Intelligent Automation_
+_Agentic AI Development | RAG Implementation | Voice-Enabled AI Systems_
 
-- **Tech Stack:** Python, LangChain, Groq LLM, Streamlit, SerpAPI, REST APIs
-- **Agentic capabilities:** Autonomous search decision-making, context-aware tool selection, intelligent query routing
-- Multi-modal AI agent with integrated tools:
-  - 🌤️ Real-time weather intelligence
-  - 💱 Currency conversion automation
-  - 📊 Stock market data retrieval
-  - 🧮 Mathematical computation
-- Three operational modes: Auto (intelligent routing), Always Search, Chat Only
-- Session persistence with conversation analytics and chat history management
+- **Tech Stack:** Python, LangChain, OpenAI GPT-4, Streamlit, ChromaDB, Firebase Firestore, Whisper/TTS
+- **Agentic capabilities:** Autonomous tool selection with reasoning, conversational context retention (95%+ follow-up accuracy), dual-memory system for agent and RAG workflows
+- Engineered 7 autonomous tools with conversational awareness:
+  - 📄 Document Q&A with RAG (PDF, Word, text files)
+  - 🎤 Voice I/O using OpenAI Whisper & TTS (6 voice profiles)
+  - 🔍 Web search, 🌤️ weather, 💱 currency, 📊 stocks, 🧮 calculator
+- Optimized Firebase Firestore integration with auto-save, session management, and lazy loading achieving 5-8x faster startup times
 - **GitHub Repo:** [https://github.com/most4f4/Agentic_AI_Assistant](https://github.com/most4f4/Agentic_AI_Assistant)
 
 ### ☁️ [**CloudDocs - Cloud-Based Document Management System**](https://github.com/most4f4/CloudDocs)
