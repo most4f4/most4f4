@@ -5,7 +5,7 @@
 ### Software Engineer | ML & AI Enthusiast | Cloud Practitioner
 
 - **Computer Programming & Analysis Graduate** at Seneca Polytechnic, Canada
-- **Master of Science in Engineering** from University of Birmingham, UK
+- **Master of Science in CS** from University of Birmingham, UK
 - Currently exploring **Building Agentic AI and AI Automation**, **cloud-native architectures**, and **performance optimization**
 - Passionate about building **scalable applications** and **AI enablement**
 
@@ -21,6 +21,12 @@
 
 **Core:** Python, Java, C++, C | **Web:** JavaScript, PHP, Swift
 
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,docker,git,githubactions" />
+
+**Cloud:** AWS, GCP, Azure | **Containers:** Docker, Kubernetes | **Serverless:** AWS Lambda, Azure Functions, Cloud Functions | **Event-Driven:** API Gateway, Service Bus, Pub/Sub | **IaC:** Terraform | **CI/CD:** GitHub Actions, Jenkins | **Version Control:** Git, GitHub
+
 ### AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -32,12 +38,6 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,html,css,sass,bootstrap,tailwind,wordpress" />
 
 **Frontend:** React, Next.js, Angular, React Native | **Backend:** Node.js, Express.js | **Styling:** Tailwind CSS, Bootstrap, SASS
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions" />
-
-**Cloud:** AWS (ECS, Fargate, EC2, S3, DynamoDB, Cognito), GCP (GCS, Firestore) | **Containers:** Docker | **CI/CD:** GitHub Actions, Multi-stage builds
 
 ### Databases & Storage
 
@@ -136,25 +136,25 @@ _Systems Programming | Network Protocols | IPC_
 - Linux kernel modules and device driver development
 - **GitHub Repo:** [https://github.com/most4f4/Unix-programming](https://github.com/most4f4/Unix-programming)
 
----
+<!-- --- -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=most4f4&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=most4f4&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=most4f4&layout=compact&theme=radical) -->
 
----
+<!-- ---
 
 ## 💼 Professional Experience
 
-**Web Developer Intern** @ Questrade Financial Group (Toronto)  
+**Web Developer Intern** @ Questrade Financial Group (Toronto)
 _Led advertisement system implementation | BDD testing | Email campaign migration_
 
-**Project Engineer** @ Aldani Master Group (Toronto)  
+**Project Engineer** @ Aldani Master Group (Toronto)
 _Project coordination | Documentation | Quality assurance_
 
-**Frontend Web Developer** @ Luna Group (UAE)  
-_Performance optimization | Cross-browser compatibility | Third-party integrations_
+**Frontend Web Developer** @ Luna Group (UAE)
+_Performance optimization | Cross-browser compatibility | Third-party integrations_ -->
 
 ---
 
@@ -169,9 +169,9 @@ _Performance optimization | Cross-browser compatibility | Third-party integratio
 
 ## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/mostafa-shah/">
+<!-- <a href="https://www.linkedin.com/in/mostafa-shah/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
-</a>
+</a> -->
 <a href="mailto:mostafa@mshahrabadi.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50"/>
 </a>
